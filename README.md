@@ -46,7 +46,7 @@ the second lambda function dicefinalresult reads all the files from buckets dice
 
 two files TotalDiceResults.json and TotalDiceSummary in a bucket called dicefinal
 
-the url used to invoke it is outputed and will needd to be appended with
+the url used to invoke it is outputed and will need to be appended with
 
 /default/dicefinalresult
 
