@@ -1,7 +1,8 @@
 # Assignment
 a terraform script to create lambda functions with rest api's
 
-# The script creates
+# Description
+The script creates
 1) lambda functions with rest api's
 2) s3 buckets used to store and read results
 3) an iam role with access to s3 and lambda used by the funtcions
