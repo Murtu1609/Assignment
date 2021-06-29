@@ -44,7 +44,7 @@ it also stores the NoOfDice, NoOfSides and NoOfRolls in json format in a bucket 
 
 the second lambda function dicefinalresult reads all the files from buckets diceresult and dicesummary, merges them and ouputs
 
-two files TotalDiceResults.json and TotalDiceSummary in a bucket called dicefinal
+two files TotalDiceResults.json and TotalDiceSummary.json in a bucket called dicefinal
 
 the url used to invoke it is outputed and will need to be appended with
 
