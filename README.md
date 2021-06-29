@@ -58,7 +58,7 @@ accountid = "enter your account id"
 
 s3buckets = ["diceresult", "dicesummary", "dicefinal"] //these bucket names are required for the lamba functions
 
-role = "LambdaS3"
+role = "LambdaS3"    // role name to be created and used by the lambda functions
 
 functions = [
   {
