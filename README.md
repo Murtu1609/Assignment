@@ -17,6 +17,8 @@ run terraform init, validate and apply
 # Details
 The script creates 2 lambda functions using .net core3.1(powershell) that are invoked by rest api's
 
+sourcecode files included in the repository dice.zip and dice2.zip
+
 the first function dicesimulation takes inputs of NoOfDice, NoOfSides and NoOfRolls via a query string
 
 the url used to invoke the function is ouputed
