@@ -48,6 +48,7 @@ the url used to invoke it is outputed and will needd to be appended with
 /default/dicefinalresult
 
 # Example Usage
+terraform.tfvars
 
 ```
 region     = "eu-west-2"
