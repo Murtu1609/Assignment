@@ -47,7 +47,7 @@ the url used to invoke it is outputed and will needd to be appended with
 
 /default/dicefinalresult
 
-# Example USage
+# Example Usage
 
 ```
 region     = "eu-west-2"
