@@ -15,7 +15,7 @@ Download the reposirtory and edit the terraform.tfvars file with your account id
 run terraform init, validate and apply
 
 # Details
-The script creates 2 lambda functions that are invoked by rest api's
+The script creates 2 lambda functions using .net core3.1(powershell) that are invoked by rest api's
 
 the first function dicesimulation takes inputs of NoOfDice, NoOfSides and NoOfRolls via a query string
 
