@@ -11,7 +11,7 @@ The script creates
 aws account, access and secret keys
 
 # Usage
-Download the reposirtory and edit the terraform.tfvars file with your account id, access and secret keys
+Download the repository and edit the terraform.tfvars file with your account id, access and secret keys
 run terraform init, validate and apply
 
 # Details
